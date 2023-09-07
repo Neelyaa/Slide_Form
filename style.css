@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/bg-smoke.jpg);
+    background-image: url(img/bg-smoke.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
